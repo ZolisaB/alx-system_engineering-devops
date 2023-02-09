@@ -1,1 +1,1 @@
-Switches the current user to betty
+Shell permissions
